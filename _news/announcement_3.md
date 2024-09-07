@@ -4,3 +4,6 @@ date: 2016-01-15 07:59:00-0400
 inline: true
 related_posts: false
 ---
+
+
+Diogo Melo and I organized a symposium 'On the interplay between developmental bias and selection' in the [3rd Joint Congress of Evolution](https://www.evolutionmeetings.org/symposia.html)
