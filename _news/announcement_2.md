@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I organized a Mandarin Multilingual Seminar in [Genetic Society of America](https://genetics-gsa.org/online-events/multilingual-seminar-series/)
+I organized a [Mandarin Multilingual Seminar](https://genetics-gsa.org/online-events/multilingual-seminar-series/) with Genetic Society of America
