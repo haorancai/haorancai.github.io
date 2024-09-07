@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-I presented at 'Next Generation New Phytologist Symposium' at Duke University Durham, NC
+I presented at 'New Phytologist next generation scientists 2024' at Duke University, Durham NC
