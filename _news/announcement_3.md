@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Diogo Melo and I organized a symposium 'On the interplay between developmental bias and selection' in the [3rd Joint Congress of Evolution](https://www.evolutionmeetings.org/symposia.html)
+Diogo Melo and I chaired a symposium 'On the interplay between developmental bias and selection' in the [3rd Joint Congress of Evolution](https://www.evolutionmeetings.org/symposia.html)
