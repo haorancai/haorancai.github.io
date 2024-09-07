@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department Civil and Environmental Engineering, MIT</a>.
+subtitle: <a href='https://cee.mit.edu/'>Department Civil and Environmental Engineering, MIT</a>.
 
 profile:
   align: right
