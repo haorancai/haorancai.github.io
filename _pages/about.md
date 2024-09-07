@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cee.mit.edu/'>Department Civil and Environmental Engineering, MIT</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Department Civil and Environmental Engineering, MIT</p>
     <p>15 Vassar St</p>
     <p>Cambridge, MA 02139</p>
 
