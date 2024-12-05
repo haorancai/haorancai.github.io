@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-29 16:11:00-0400
+date: 2024-11-22 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-I organized a [Mandarin Multilingual Seminar](https://genetics-gsa.org/online-events/multilingual-seminar-series/) with Genetic Society of America
+I finished defending my PhD thesis: "on the nature of variational bias: a developmental perspective"
