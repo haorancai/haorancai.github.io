@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-11-22 16:11:00-0400
+date: 2024-09-06 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I finished defending my PhD thesis: "on the nature of variational bias: a developmental perspective"
+I gave a chalk talk at [Boston Evolutionary Genomics Supergroup Annual Retreat 2024](https://evogen.hms.harvard.edu/boston-evolutionary-genomics-supergroup-annual-retreat-2024)
