@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-06 15:59:00-0400
+date: 2026-06-10 09:00:00-0700
 inline: true
 related_posts: false
 ---
 
-I gave a chalk talk at [Boston Evolutionary Genomics Supergroup Annual Retreat 2024](https://evogen.hms.harvard.edu/boston-evolutionary-genomics-supergroup-annual-retreat-2024)
+I presented [expression noise project](https://academic.oup.com/gbe/article/18/4/evag077/8566041) in PEQG 2026, Pacific Grove, CA.
