@@ -853,6 +853,16 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+        a {
+          color: inherit;
+          text-decoration: none;
+          transition: color 0.2s ease-in-out;
+
+          &:hover {
+            color: var(--global-theme-color);
+            text-decoration: none;
+          }
+        }
       }
 
       .author {
