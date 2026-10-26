@@ -273,7 +273,7 @@ html[data-theme="dark"] .bridge-card:hover {
      ═══════════════════════════════════════════════════════════════ -->
 <div class="research-hero">
   <p class="lead-text">
-    My research investigates how the complex <strong>Genotype-to-Phenotype map</strong> interacts with natural selection to shape evolutionary outcomes, from genome structure and genetic architecture to organismal diversity.
+    My research asks how far natural selection reaches through the <strong>genotype–phenotype map</strong>: how the map structures genetic variation, and what the resulting genetic architecture reveals about selection, from gene expression and genome structure to organismal diversity.
 
   </p>
 </div>
