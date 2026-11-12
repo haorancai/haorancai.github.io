@@ -10,6 +10,7 @@ profile:
   more_info: >
     <p>Department of Ecology and Evolutionary Biology, UCLA</p>
     <p>Los Angeles, CA 90095</p>
+    <p><a href="mailto:hrcai@ucla.edu">hrcai@ucla.edu</a></p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

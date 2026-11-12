@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Haoran
 middle_name:
 last_name: Cai
-email: you@example.com
+email: hrcai@ucla.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Haoran Cai is an evolutionary geneticist at UCLA who develops theory and computational methods to understand how genotype–phenotype maps structure genetic variation and what genetic architecture reveals about natural selection.
 footer_text: >
